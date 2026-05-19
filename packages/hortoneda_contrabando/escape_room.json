@@ -1,0 +1,136 @@
+{
+  "id": "hortoneda_contrabando",
+  "title": {
+    "ca": "Escape Room de Hortoneda",
+    "es": "Escape Room de Hortoneda",
+    "en": "Hortoneda Escape Room",
+    "fr": "Escape Room de Hortoneda"
+  },
+  "default_language": "ca",
+  "languages": ["ca", "es", "en", "fr"],
+  "theme": {
+    "ca": "El contraban a Hortoneda",
+    "es": "El contrabando en Hortoneda",
+    "en": "Smuggling in Hortoneda",
+    "fr": "La contrebande a Hortoneda"
+  },
+  "estimated_duration_minutes": 120,
+  "scoring": {
+    "initial_score": 1000,
+    "skip_stage_penalty": 100,
+    "advanced_hint_penalty": 20,
+    "wrong_answer_penalty": 0
+  },
+  "stages": [
+    "stage_01",
+    "stage_02",
+    "stage_03",
+    "stage_04",
+    "stage_05",
+    "stage_06",
+    "stage_07",
+    "stage_08",
+    "stage_09",
+    "stage_10",
+    "stage_11",
+    "stage_12"
+  ],
+  "blocks": [
+    {
+      "id": "block_1",
+      "order": 1,
+      "title": {
+        "ca": "La Ruta de la Sal",
+        "es": "La Ruta de la Sal",
+        "en": "The Salt Route",
+        "fr": "La Route du Sel"
+      },
+      "description": {
+        "ca": "Descobreix els primers secrets dels contrabandistes del Pallars.",
+        "es": "Descubre los primeros secretos de los contrabandistas del Pallars.",
+        "en": "Uncover the first secrets of the Pallars smugglers.",
+        "fr": "Découvrez les premiers secrets des contrebandiers du Pallars."
+      },
+      "stages": ["stage_01", "stage_02", "stage_03"],
+      "icon": "salt",
+      "next_block_hint": {
+        "ca": "[Pista per trobar el QR del Bloc 2 — emplenar per l'organitzador]",
+        "es": "[Pista para encontrar el QR del Bloque 2 — rellenar por el organizador]",
+        "en": "[Hint to find Block 2 QR code — to be filled in by the organizer]",
+        "fr": "[Indice pour trouver le QR du Bloc 2 — à remplir par l'organisateur]"
+      }
+    },
+    {
+      "id": "block_2",
+      "order": 2,
+      "title": {
+        "ca": "El Tabac de la Frontera",
+        "es": "El Tabaco de la Frontera",
+        "en": "Border Tobacco",
+        "fr": "Le Tabac de la Frontière"
+      },
+      "description": {
+        "ca": "Segueix la pista del tabac d'Andorra fins als Pirineus.",
+        "es": "Sigue la pista del tabaco de Andorra hasta los Pirineos.",
+        "en": "Follow the trail of Andorran tobacco through the Pyrenees.",
+        "fr": "Suivez la piste du tabac andorran à travers les Pyrénées."
+      },
+      "stages": ["stage_04", "stage_05", "stage_06"],
+      "icon": "tobacco",
+      "next_block_hint": {
+        "ca": "[Pista per trobar el QR del Bloc 3 — emplenar per l'organitzador]",
+        "es": "[Pista para encontrar el QR del Bloque 3 — rellenar por el organizador]",
+        "en": "[Hint to find Block 3 QR code — to be filled in by the organizer]",
+        "fr": "[Indice pour trouver le QR du Bloc 3 — à remplir par l'organisateur]"
+      }
+    },
+    {
+      "id": "block_3",
+      "order": 3,
+      "title": {
+        "ca": "Les Mules del Pallars",
+        "es": "Las Mulas del Pallars",
+        "en": "The Pallars Mules",
+        "fr": "Les Mulets du Pallars"
+      },
+      "description": {
+        "ca": "Els animals eren l'eina essencial dels contrabandistes de muntanya.",
+        "es": "Los animales eran la herramienta esencial de los contrabandistas de montaña.",
+        "en": "Animals were the essential tool of mountain smugglers.",
+        "fr": "Les animaux étaient l'outil essentiel des contrebandiers de montagne."
+      },
+      "stages": ["stage_07", "stage_08", "stage_09"],
+      "icon": "mule",
+      "next_block_hint": {
+        "ca": "[Pista per trobar el QR del Bloc 4 — emplenar per l'organitzador]",
+        "es": "[Pista para encontrar el QR del Bloque 4 — rellenar por el organizador]",
+        "en": "[Hint to find Block 4 QR code — to be filled in by the organizer]",
+        "fr": "[Indice pour trouver le QR du Bloc 4 — à remplir par l'organisateur]"
+      }
+    },
+    {
+      "id": "block_4",
+      "order": 4,
+      "title": {
+        "ca": "La Frontera Final",
+        "es": "La Frontera Final",
+        "en": "The Final Border",
+        "fr": "La Frontière Finale"
+      },
+      "description": {
+        "ca": "L'últim passatge. Pots travessar la frontera sense ser capturat?",
+        "es": "El último paso. ¿Puedes cruzar la frontera sin ser capturado?",
+        "en": "The last crossing. Can you pass the border without getting caught?",
+        "fr": "Le dernier passage. Pouvez-vous franchir la frontière sans vous faire prendre ?"
+      },
+      "stages": ["stage_10", "stage_11", "stage_12"],
+      "icon": "border",
+      "next_block_hint": {
+        "ca": "Heu completat tots els blocs. Felicitats, contrabandistes!",
+        "es": "Habéis completado todos los bloques. ¡Felicidades, contrabandistas!",
+        "en": "You have completed all blocks. Congratulations, smugglers!",
+        "fr": "Vous avez complété tous les blocs. Félicitations, contrebandiers !"
+      }
+    }
+  ]
+}

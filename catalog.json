@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-05-19",
+  "models": [
+    {
+      "id": "qwen2_5_0_5b_instruct_q4",
+      "file_name": "qwen2_5_0_5b_instruct_q4.gguf",
+      "download_url": "",
+      "sha256": "7671c0c304e6ce5a7fc577bcb12aba01e2c155cc2efd29b2213c95b18edaf6ed",
+      "bytes": 428730208
+    }
+  ],
+  "packs": [
+    {
+      "id": "hortoneda_contrabando",
+      "version": "1.0.0",
+      "type": "escape_room",
+      "title": {
+        "ca": "El contraban a Hortoneda",
+        "es": "El contrabando en Hortoneda",
+        "en": "Smuggling in Hortoneda",
+        "fr": "La contrebande à Hortoneda"
+      },
+      "description": {
+        "ca": "Gimcana històrica de 4 blocs i 12 proves sobre el contraban al Pallars.",
+        "es": "Gimcana histórica de 4 bloques y 12 pruebas sobre el contrabando en el Pallars.",
+        "en": "Historical activity with 4 blocks and 12 stages about smuggling in Pallars.",
+        "fr": "Chasse historique en 4 blocs et 12 épreuves sur la contrebande dans le Pallars."
+      },
+      "author": "Guilda Assessors Històrics, S.L.",
+      "stage_count": 12,
+      "estimated_duration_minutes": 120,
+      "bundled": false,
+      "installed": false,
+      "available": true,
+      "download_base_url": "https://raw.githubusercontent.com/lofonollscp-creator/guildapp-content/main/packages/hortoneda_contrabando",
+      "files": [
+        "escape_room.json",
+        "knowledge/contraband_ca.md",
+        "knowledge/contraband_en.md",
+        "knowledge/contraband_es.md",
+        "knowledge/contraband_fr.md",
+        "knowledge/glossary.json",
+        "knowledge/history_ca.md",
+        "knowledge/history_en.md",
+        "knowledge/history_es.md",
+        "knowledge/history_fr.md",
+        "knowledge/hortoneda_ca.md",
+        "knowledge/hortoneda_en.md",
+        "knowledge/hortoneda_es.md",
+        "knowledge/hortoneda_fr.md",
+        "stages/stage_01.json",
+        "stages/stage_02.json",
+        "stages/stage_03.json",
+        "stages/stage_04.json",
+        "stages/stage_05.json",
+        "stages/stage_06.json",
+        "stages/stage_07.json",
+        "stages/stage_08.json",
+        "stages/stage_09.json",
+        "stages/stage_10.json",
+        "stages/stage_11.json",
+        "stages/stage_12.json"
+      ]
+    },
+    {
+      "id": "aramunt_vell_visit",
+      "version": "0.1.0",
+      "type": "guided_tour",
+      "title": {
+        "ca": "Visita a l'Aramunt Vell",
+        "es": "Visita a l'Aramunt Vell",
+        "en": "Visit to Aramunt Vell",
+        "fr": "Visite a l'Aramunt Vell"
+      },
+      "description": {
+        "ca": "Ruta patrimonial guiada. Properament disponible.",
+        "es": "Ruta patrimonial guiada. Próximamente disponible.",
+        "en": "Guided heritage route. Coming soon.",
+        "fr": "Route patrimoniale guidee. Prochainement disponible."
+      },
+      "author": "Guilda Assessors Històrics, S.L.",
+      "stage_count": 0,
+      "estimated_duration_minutes": 90,
+      "bundled": false,
+      "installed": false,
+      "available": false,
+      "status_label": {
+        "ca": "Pròximament",
+        "es": "Próximamente",
+        "en": "Coming soon",
+        "fr": "Prochainement"
+      },
+      "download_base_url": "",
+      "files": []
+    },
+    {
+      "id": "benet_rosell_tremp",
+      "version": "0.1.0",
+      "type": "guided_tour",
+      "title": {
+        "ca": "De Tremp al món: la vida de Benet Rosell",
+        "es": "De Tremp al mundo: la vida de Benet Rosell",
+        "en": "From Tremp to the world: the life of Benet Rosell",
+        "fr": "De Tremp au monde : la vie de Benet Rosell"
+      },
+      "description": {
+        "ca": "Visita guiada sobre art, territori i memoria contemporania. Properament disponible.",
+        "es": "Visita guiada sobre arte, territorio y memoria contemporánea. Próximamente disponible.",
+        "en": "Guided tour about art, territory and contemporary memory. Coming soon.",
+        "fr": "Visite guidee sur l'art, le territoire et la memoire contemporaine. Prochainement disponible."
+      },
+      "author": "Guilda Assessors Històrics, S.L.",
+      "stage_count": 0,
+      "estimated_duration_minutes": 75,
+      "bundled": false,
+      "installed": false,
+      "available": false,
+      "status_label": {
+        "ca": "Pròximament",
+        "es": "Próximamente",
+        "en": "Coming soon",
+        "fr": "Prochainement"
+      },
+      "download_base_url": "",
+      "files": []
+    }
+  ]
+}

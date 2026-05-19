@@ -1,0 +1,74 @@
+{
+  "id": "stage_04",
+  "order": 4,
+  "title": {
+    "ca": "2.1 Quant pot portar una mula?",
+    "es": "2.1 ¿Cuánto puede llevar una mula?",
+    "en": "2.1 How Much Can a Mule Carry?",
+    "fr": "2.1 Combien une mule peut-elle porter ?"
+  },
+  "qr_id": "1000000004",
+  "story": {
+    "ca": "Bloc 2: El Camí de Bast. Les mules i els matxos eren indispensables per transportar fardells pels camins amagats del bosc. Una mula porta 3 fardells de 40 kg cadascun i el camí de tornada fa 12 km. Quina és la càrrega total transportada? A) 100 kg. B) 120 kg. C) 140 kg. D) 160 kg.",
+    "es": "Bloque 2: El Camino de Herradura. Las mulas y los machos eran indispensables para transportar fardos por los caminos ocultos del bosque. Una mula lleva 3 fardos de 40 kg cada uno y el camino de regreso mide 12 km. ¿Cuál es la carga total transportada? A) 100 kg. B) 120 kg. C) 140 kg. D) 160 kg.",
+    "en": "Block 2: The Pack Trail. Mules and pack animals were essential for carrying bundles along hidden forest paths. A mule carries 3 bundles of 40 kg each and the return route is 12 km long. What is the total load carried? A) 100 kg. B) 120 kg. C) 140 kg. D) 160 kg.",
+    "fr": "Bloc 2 : Le chemin muletier. Les mules et les mulets étaient indispensables pour transporter des ballots par les chemins cachés de la forêt. Une mule porte 3 ballots de 40 kg chacun et le chemin du retour mesure 12 km. Quelle est la charge totale transportée ? A) 100 kg. B) 120 kg. C) 140 kg. D) 160 kg."
+  },
+  "location_hint": {
+    "ca": "Inici del camí de ferradura que puja cap al bosc.",
+    "es": "Inicio del camino de herradura que sube hacia el bosque.",
+    "en": "Start of the pack trail that climbs towards the woods.",
+    "fr": "Début du chemin muletier qui monte vers la forêt."
+  },
+  "answer": {
+    "type": "numeric",
+    "value": [
+      "120",
+      "120 kg",
+      "B"
+    ]
+  },
+  "max_time_seconds": 600,
+  "points": 100,
+  "hints": [
+    {
+      "level": 1,
+      "penalty": 0,
+      "text": {
+        "ca": "El quilometratge no afecta el pes total.",
+        "es": "El kilometraje no afecta al peso total.",
+        "en": "The distance does not change the total weight.",
+        "fr": "La distance ne change pas le poids total."
+      }
+    },
+    {
+      "level": 2,
+      "penalty": 0,
+      "text": {
+        "ca": "Multipliqueu 3 per 40.",
+        "es": "Multiplicad 3 por 40.",
+        "en": "Multiply 3 by 40.",
+        "fr": "Multipliez 3 par 40."
+      }
+    },
+    {
+      "level": 3,
+      "penalty": 20,
+      "text": {
+        "ca": "La resposta és 120 kg.",
+        "es": "La respuesta es 120 kg.",
+        "en": "The answer is 120 kg.",
+        "fr": "La réponse est 120 kg."
+      }
+    }
+  ],
+  "education": {
+    "ca": "El transport amb animals feia possible moure càrregues importants per camins on un carro no podia passar.",
+    "es": "El transporte con animales permitía mover cargas importantes por caminos donde un carro no podía pasar.",
+    "en": "Animal transport made it possible to move heavy loads along paths where carts could not pass.",
+    "fr": "Le transport par animaux permettait de déplacer de lourdes charges sur des chemins impraticables pour les charrettes."
+  },
+  "lat": 42.2458,
+  "lon": 1.0412,
+  "field_clue": "Observeu el tipus de pedres del marge del camí. Descriviu-les en una frase i continueu."
+}

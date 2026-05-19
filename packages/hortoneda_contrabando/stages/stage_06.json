@@ -1,0 +1,74 @@
+{
+  "id": "stage_06",
+  "order": 6,
+  "title": {
+    "ca": "2.3 El testimoni oral",
+    "es": "2.3 El testimonio oral",
+    "en": "2.3 The Oral Testimony",
+    "fr": "2.3 Le témoignage oral"
+  },
+  "qr_id": "1000000006",
+  "story": {
+    "ca": "Llegiu aquest fragment d'un relat popular de la Conca de Tremp: \"El meu avi deia que quan sentien dos cops de flauta, s'amagaven al bosc amb les mules. Quan sentien tres cops, ja podien continuar caminant sense por.\" Quants cops de flauta indicaven que el camí era segur?",
+    "es": "Leed este fragmento de un relato popular de la Conca de Tremp: \"Mi abuelo decía que cuando oían dos golpes de flauta, se escondían en el bosque con las mulas. Cuando oían tres golpes, ya podían seguir caminando sin miedo.\" ¿Cuántos golpes de flauta indicaban que el camino era seguro?",
+    "en": "Read this fragment from a folk account in the Conca de Tremp: \"My grandfather said that when they heard two flute blows, they hid in the woods with the mules. When they heard three blows, they could keep walking without fear.\" How many flute blows meant the path was safe?",
+    "fr": "Lisez cet extrait d'un récit populaire de la Conca de Tremp : \"Mon grand-père disait que lorsqu'ils entendaient deux coups de flûte, ils se cachaient dans la forêt avec les mules. Lorsqu'ils entendaient trois coups, ils pouvaient continuer à marcher sans crainte.\" Combien de coups de flûte indiquaient que le chemin était sûr ?"
+  },
+  "location_hint": {
+    "ca": "Tram del camí de bast, amb el grup aturat i escoltant el relat.",
+    "es": "Tramo del camino de herradura, con el grupo detenido y escuchando el relato.",
+    "en": "Section of the pack trail, with the group stopped to listen to the account.",
+    "fr": "Tronçon du chemin muletier, le groupe arrêté pour écouter le récit."
+  },
+  "answer": {
+    "type": "numeric",
+    "value": [
+      "3",
+      "tres",
+      "three",
+      "trois"
+    ]
+  },
+  "max_time_seconds": 600,
+  "points": 100,
+  "hints": [
+    {
+      "level": 1,
+      "penalty": 0,
+      "text": {
+        "ca": "No busqueu una paraula: busqueu un número.",
+        "es": "No busquéis una palabra: buscad un número.",
+        "en": "Do not look for a word: look for a number.",
+        "fr": "Ne cherchez pas un mot : cherchez un nombre."
+      }
+    },
+    {
+      "level": 2,
+      "penalty": 0,
+      "text": {
+        "ca": "Dos cops volia dir amagar-se; l'altre senyal era segur.",
+        "es": "Dos golpes significaban esconderse; la otra señal era segura.",
+        "en": "Two blows meant hide; the other signal was safe.",
+        "fr": "Deux coups signifiaient se cacher ; l'autre signal était sûr."
+      }
+    },
+    {
+      "level": 3,
+      "penalty": 20,
+      "text": {
+        "ca": "La resposta és 3.",
+        "es": "La respuesta es 3.",
+        "en": "The answer is 3.",
+        "fr": "La réponse est 3."
+      }
+    }
+  ],
+  "education": {
+    "ca": "La memòria oral conserva formes de comunicació i supervivència que sovint no apareixen als documents oficials.",
+    "es": "La memoria oral conserva formas de comunicación y supervivencia que a menudo no aparecen en los documentos oficiales.",
+    "en": "Oral memory preserves forms of communication and survival that often do not appear in official documents.",
+    "fr": "La mémoire orale conserve des formes de communication et de survie qui apparaissent rarement dans les documents officiels."
+  },
+  "lat": 42.2473,
+  "lon": 1.0395
+}

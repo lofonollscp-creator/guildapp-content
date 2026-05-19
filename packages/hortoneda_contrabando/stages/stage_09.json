@@ -1,0 +1,71 @@
+{
+  "id": "stage_09",
+  "order": 9,
+  "title": {
+    "ca": "3.3 El repte cooperatiu",
+    "es": "3.3 El reto cooperativo",
+    "en": "3.3 The Cooperative Challenge",
+    "fr": "3.3 Le défi coopératif"
+  },
+  "qr_id": "1000000009",
+  "story": {
+    "ca": "Aquesta prova requereix tot el grup. Representeu durant 2 minuts una escena: sou contrabandistes que volen creuar el poble sense ser vistos per la Guàrdia Civil. Una persona fa de guàrdia i la resta ha de passar d'un extrem de la façana a l'altre sense ser enxampada. Quan el monitor/a validi creativitat i treball en equip, introduirà el codi de desbloqueig.",
+    "es": "Esta prueba requiere a todo el grupo. Representad durante 2 minutos una escena: sois contrabandistas que quieren cruzar el pueblo sin ser vistos por la Guardia Civil. Una persona hace de guardia y el resto debe pasar de un extremo de la fachada al otro sin ser atrapado. Cuando el monitor/a valide creatividad y trabajo en equipo, introducirá el código de desbloqueo.",
+    "en": "This stage requires the whole group. Perform a 2-minute scene: you are smugglers trying to cross the village without being seen by the Guardia Civil. One person plays the guard and the others must move from one end of the facade to the other without being caught. When the guide validates creativity and teamwork, they will enter the unlock code.",
+    "fr": "Cette épreuve mobilise tout le groupe. Jouez une scène de 2 minutes : vous êtes des contrebandiers qui veulent traverser le village sans être vus par la Guardia Civil. Une personne joue le garde et les autres doivent passer d'une extrémité de la façade à l'autre sans être attrapés. Lorsque l'animateur valide la créativité et le travail d'équipe, il saisira le code de déblocage."
+  },
+  "location_hint": {
+    "ca": "Espai segur davant la façana, sense ocupar la calçada ni molestar veïns.",
+    "es": "Espacio seguro frente a la fachada, sin ocupar la calzada ni molestar a vecinos.",
+    "en": "Safe space in front of the facade, without blocking the road or disturbing neighbours.",
+    "fr": "Espace sûr devant la façade, sans occuper la chaussée ni déranger les voisins."
+  },
+  "answer": {
+    "type": "exact",
+    "value": [
+      "7319204685"
+    ]
+  },
+  "max_time_seconds": 600,
+  "points": 100,
+  "hints": [
+    {
+      "level": 1,
+      "penalty": 0,
+      "text": {
+        "ca": "Penseu una estratègia abans de començar: distracció, silenci o coordinació.",
+        "es": "Pensad una estrategia antes de empezar: distracción, silencio o coordinación.",
+        "en": "Plan a strategy before starting: distraction, silence or coordination.",
+        "fr": "Préparez une stratégie avant de commencer : diversion, silence ou coordination."
+      }
+    },
+    {
+      "level": 2,
+      "penalty": 0,
+      "text": {
+        "ca": "El monitor/a valida la prova i introdueix el codi.",
+        "es": "El monitor/a valida la prueba e introduce el código.",
+        "en": "The guide validates the stage and enters the code.",
+        "fr": "L'animateur valide l'épreuve et saisit le code."
+      }
+    },
+    {
+      "level": 3,
+      "penalty": 20,
+      "text": {
+        "ca": "La clau és cooperar, no córrer.",
+        "es": "La clave es cooperar, no correr.",
+        "en": "The key is cooperation, not speed.",
+        "fr": "La clé est la coopération, pas la vitesse."
+      }
+    }
+  ],
+  "education": {
+    "ca": "El contraban era sovint una activitat col·lectiva que depenia de confiança, complicitats i coordinació.",
+    "es": "El contrabando era a menudo una actividad colectiva que dependía de confianza, complicidades y coordinación.",
+    "en": "Smuggling was often a collective activity based on trust, complicity and coordination.",
+    "fr": "La contrebande était souvent une activité collective fondée sur la confiance, les complicités et la coordination."
+  },
+  "lat": 42.245,
+  "lon": 1.044
+}

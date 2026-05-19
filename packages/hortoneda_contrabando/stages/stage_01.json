@@ -1,0 +1,76 @@
+{
+  "id": "stage_01",
+  "order": 1,
+  "title": {
+    "ca": "1.1 L'enigma de la sal",
+    "es": "1.1 El enigma de la sal",
+    "en": "1.1 The Salt Riddle",
+    "fr": "1.1 L'énigme du sel"
+  },
+  "qr_id": "1000000001",
+  "story": {
+    "ca": "Bloc 1: L'Entrada del Poble. Sou a la creu de pedra de l'entrada d'Hortoneda. Durant els segles XVIII i XIX, els contrabandistes del Pallars creuaven la frontera per portar sal, tabac i teixits. La sal era molt valuosa perquè el seu preu estava controlat per l'Estat. A quins països veïns anaven a buscar-la? A) Portugal i Itàlia. B) França i Andorra. C) Aragó i Navarra. D) Anglaterra i Flandes. Escriu la lletra correcta.",
+    "es": "Bloque 1: La Entrada del Pueblo. Estáis en la cruz de piedra de la entrada de Hortoneda. Durante los siglos XVIII y XIX, los contrabandistas del Pallars cruzaban la frontera para traer sal, tabaco y tejidos. La sal era muy valiosa porque su precio estaba controlado por el Estado. ¿A qué países vecinos iban a buscarla? A) Portugal e Italia. B) Francia y Andorra. C) Aragón y Navarra. D) Inglaterra y Flandes. Escribe la letra correcta.",
+    "en": "Block 1: The Village Entrance. You are at the stone cross at the entrance to Hortoneda. During the 18th and 19th centuries, smugglers from Pallars crossed the border to bring salt, tobacco and cloth. Salt was very valuable because its price was controlled by the State. Which neighbouring countries did they go to for salt? A) Portugal and Italy. B) France and Andorra. C) Aragon and Navarre. D) England and Flanders. Type the correct letter.",
+    "fr": "Bloc 1 : L'entrée du village. Vous êtes à la croix de pierre à l'entrée de Hortoneda. Aux XVIIIe et XIXe siècles, les contrebandiers du Pallars franchissaient la frontière pour rapporter du sel, du tabac et des tissus. Le sel était très précieux car son prix était contrôlé par l'État. Dans quels pays voisins allaient-ils le chercher ? A) Portugal et Italie. B) France et Andorre. C) Aragon et Navarre. D) Angleterre et Flandre. Saisissez la bonne lettre."
+  },
+  "location_hint": {
+    "ca": "Creu de pedra a l'entrada d'Hortoneda.",
+    "es": "Cruz de piedra en la entrada de Hortoneda.",
+    "en": "Stone cross at the entrance to Hortoneda.",
+    "fr": "Croix de pierre à l'entrée de Hortoneda."
+  },
+  "answer": {
+    "type": "exact",
+    "value": [
+      "B",
+      "França i Andorra",
+      "Francia y Andorra",
+      "France and Andorra",
+      "France et Andorre"
+    ]
+  },
+  "max_time_seconds": 600,
+  "points": 100,
+  "hints": [
+    {
+      "level": 1,
+      "penalty": 0,
+      "text": {
+        "ca": "La pista és geogràfica: penseu en les fronteres de muntanya més properes.",
+        "es": "La pista es geográfica: pensad en las fronteras de montaña más próximas.",
+        "en": "The clue is geographic: think of the nearest mountain borders.",
+        "fr": "L'indice est géographique : pensez aux frontières de montagne les plus proches."
+      }
+    },
+    {
+      "level": 2,
+      "penalty": 0,
+      "text": {
+        "ca": "La resposta no és cap lloc llunyà ni cap regió de l'interior peninsular.",
+        "es": "La respuesta no es un lugar lejano ni una región del interior peninsular.",
+        "en": "The answer is not a distant place or an inland region.",
+        "fr": "La réponse n'est ni un lieu lointain ni une région de l'intérieur."
+      }
+    },
+    {
+      "level": 3,
+      "penalty": 20,
+      "text": {
+        "ca": "Trieu la B.",
+        "es": "Elegid la B.",
+        "en": "Choose B.",
+        "fr": "Choisissez B."
+      }
+    }
+  ],
+  "education": {
+    "ca": "La sal era imprescindible per conservar aliments i podia convertir-se en una mercaderia estratègica.",
+    "es": "La sal era imprescindible para conservar alimentos y podía convertirse en una mercancía estratégica.",
+    "en": "Salt was essential for preserving food and could become a strategic commodity.",
+    "fr": "Le sel était indispensable pour conserver les aliments et pouvait devenir une marchandise stratégique."
+  },
+  "lat": 42.244,
+  "lon": 1.0418,
+  "field_clue": "Compteu les inscripcions gravades a la creu de pedra. Doneu la xifra en veu alta i continueu al següent punt."
+}

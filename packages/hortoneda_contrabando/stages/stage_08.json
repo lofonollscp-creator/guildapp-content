@@ -1,0 +1,74 @@
+{
+  "id": "stage_08",
+  "order": 8,
+  "title": {
+    "ca": "3.2 El preu del tabac",
+    "es": "3.2 El precio del tabaco",
+    "en": "3.2 The Price of Tobacco",
+    "fr": "3.2 Le prix du tabac"
+  },
+  "qr_id": "1000000008",
+  "story": {
+    "ca": "El tabac era una de les mercaderies més lucratives. Si a França un fardell costava 10 francs i 1 franc equivalia aproximadament a 1,5 pessetes, el cost era de 15 pessetes. Si a Espanya el venien per 40 pessetes, quin marge brut obtenien? A) 15 pessetes. B) 25 pessetes. C) 30 pessetes. D) 40 pessetes.",
+    "es": "El tabaco era una de las mercancías más lucrativas. Si en Francia un fardo costaba 10 francos y 1 franco equivalía aproximadamente a 1,5 pesetas, el coste era de 15 pesetas. Si en España lo vendían por 40 pesetas, ¿qué margen bruto obtenían? A) 15 pesetas. B) 25 pesetas. C) 30 pesetas. D) 40 pesetas.",
+    "en": "Tobacco was one of the most profitable goods. If a bundle cost 10 francs in France and 1 franc was worth about 1.5 pesetas, the cost was 15 pesetas. If it was sold in Spain for 40 pesetas, what gross margin did they obtain? A) 15 pesetas. B) 25 pesetas. C) 30 pesetas. D) 40 pesetas.",
+    "fr": "Le tabac était l'une des marchandises les plus lucratives. Si un ballot coûtait 10 francs en France et qu'un franc valait environ 1,5 peseta, le coût était de 15 pesetas. S'il était vendu en Espagne pour 40 pesetas, quelle marge brute obtenait-on ? A) 15 pesetas. B) 25 pesetas. C) 30 pesetas. D) 40 pesetas."
+  },
+  "location_hint": {
+    "ca": "Davant la casa de l'amagatall.",
+    "es": "Frente a la casa del escondite.",
+    "en": "In front of the hideout house.",
+    "fr": "Devant la maison de la cachette."
+  },
+  "answer": {
+    "type": "numeric",
+    "value": [
+      "25",
+      "25 pessetes",
+      "25 pesetas",
+      "B"
+    ]
+  },
+  "max_time_seconds": 600,
+  "points": 100,
+  "hints": [
+    {
+      "level": 1,
+      "penalty": 0,
+      "text": {
+        "ca": "Primer calculeu el cost: 10 per 1,5.",
+        "es": "Primero calculad el coste: 10 por 1,5.",
+        "en": "First calculate the cost: 10 times 1.5.",
+        "fr": "Calculez d'abord le coût : 10 fois 1,5."
+      }
+    },
+    {
+      "level": 2,
+      "penalty": 0,
+      "text": {
+        "ca": "Resteu el cost al preu de venda.",
+        "es": "Restad el coste al precio de venta.",
+        "en": "Subtract the cost from the sale price.",
+        "fr": "Soustrayez le coût du prix de vente."
+      }
+    },
+    {
+      "level": 3,
+      "penalty": 20,
+      "text": {
+        "ca": "40 menys 15 és 25.",
+        "es": "40 menos 15 son 25.",
+        "en": "40 minus 15 is 25.",
+        "fr": "40 moins 15 égale 25."
+      }
+    }
+  ],
+  "education": {
+    "ca": "El diferencial de preus podia fer molt atractiu el risc del contraban.",
+    "es": "La diferencia de precios podía hacer muy atractivo el riesgo del contrabando.",
+    "en": "Price differences could make the risk of smuggling very tempting.",
+    "fr": "Les différences de prix pouvaient rendre le risque de contrebande très attractif."
+  },
+  "lat": 42.2453,
+  "lon": 1.0437
+}

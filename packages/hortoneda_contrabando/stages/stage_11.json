@@ -1,0 +1,74 @@
+{
+  "id": "stage_11",
+  "order": 11,
+  "title": {
+    "ca": "4.2 El judici del contrabandista",
+    "es": "4.2 El juicio del contrabandista",
+    "en": "4.2 The Smuggler's Trial",
+    "fr": "4.2 Le procès du contrebandier"
+  },
+  "qr_id": "1000000011",
+  "story": {
+    "ca": "Llegiu el cas: l'any 1873, el Tribunal de Lleida jutjà en Jaume, un pagès d'Hortoneda acusat de transportar tabac de contraban. El fiscal demanava 6 mesos de presó i una multa equivalent al triple del valor de la mercaderia. El valor era de 20 pessetes i el jutge finalment el condemnà només a pagar la multa. Quant va haver de pagar? A) 20 pessetes. B) 40 pessetes. C) 60 pessetes. D) 80 pessetes.",
+    "es": "Leed el caso: en 1873, el Tribunal de Lleida juzgó a Jaume, un campesino de Hortoneda acusado de transportar tabaco de contrabando. El fiscal pedía 6 meses de prisión y una multa equivalente al triple del valor de la mercancía. El valor era de 20 pesetas y el juez finalmente lo condenó solo a pagar la multa. ¿Cuánto tuvo que pagar? A) 20 pesetas. B) 40 pesetas. C) 60 pesetas. D) 80 pesetas.",
+    "en": "Read the case: in 1873, the Lleida court tried Jaume, a farmer from Hortoneda accused of carrying smuggled tobacco. The prosecutor requested 6 months in prison and a fine equal to three times the value of the goods. The value was 20 pesetas and the judge finally sentenced him only to pay the fine. How much did he have to pay? A) 20 pesetas. B) 40 pesetas. C) 60 pesetas. D) 80 pesetas.",
+    "fr": "Lisez le cas : en 1873, le tribunal de Lleida jugea Jaume, un paysan de Hortoneda accusé de transporter du tabac de contrebande. Le procureur demandait 6 mois de prison et une amende équivalant au triple de la valeur de la marchandise. La valeur était de 20 pesetas et le juge le condamna finalement seulement à payer l'amende. Combien dut-il payer ? A) 20 pesetas. B) 40 pesetas. C) 60 pesetas. D) 80 pesetas."
+  },
+  "location_hint": {
+    "ca": "Mirador del Guàrdia, amb vista oberta sobre el territori.",
+    "es": "Mirador del Guardia, con vista abierta sobre el territorio.",
+    "en": "The Guard's Viewpoint, with an open view over the territory.",
+    "fr": "Belvédère du garde, avec une vue ouverte sur le territoire."
+  },
+  "answer": {
+    "type": "numeric",
+    "value": [
+      "60",
+      "60 pessetes",
+      "60 pesetas",
+      "C"
+    ]
+  },
+  "max_time_seconds": 600,
+  "points": 100,
+  "hints": [
+    {
+      "level": 1,
+      "penalty": 0,
+      "text": {
+        "ca": "La multa és el triple del valor.",
+        "es": "La multa es el triple del valor.",
+        "en": "The fine is three times the value.",
+        "fr": "L'amende est le triple de la valeur."
+      }
+    },
+    {
+      "level": 2,
+      "penalty": 0,
+      "text": {
+        "ca": "Multipliqueu 20 per 3.",
+        "es": "Multiplicad 20 por 3.",
+        "en": "Multiply 20 by 3.",
+        "fr": "Multipliez 20 par 3."
+      }
+    },
+    {
+      "level": 3,
+      "penalty": 20,
+      "text": {
+        "ca": "La resposta correcta és C, 60 pessetes.",
+        "es": "La respuesta correcta es C, 60 pesetas.",
+        "en": "The correct answer is C, 60 pesetas.",
+        "fr": "La bonne réponse est C, 60 pesetas."
+      }
+    }
+  ],
+  "education": {
+    "ca": "Les sancions econòmiques podien ser devastadores per a famílies pageses amb pocs recursos.",
+    "es": "Las sanciones económicas podían ser devastadoras para familias campesinas con pocos recursos.",
+    "en": "Economic penalties could be devastating for farming families with few resources.",
+    "fr": "Les sanctions économiques pouvaient être dévastatrices pour des familles paysannes aux ressources limitées."
+  },
+  "lat": 42.249,
+  "lon": 1.0412
+}

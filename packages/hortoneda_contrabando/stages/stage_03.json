@@ -1,0 +1,74 @@
+{
+  "id": "stage_03",
+  "order": 3,
+  "title": {
+    "ca": "1.3 El codi del contrabandista",
+    "es": "1.3 El código del contrabandista",
+    "en": "1.3 The Smuggler's Code",
+    "fr": "1.3 Le code du contrebandier"
+  },
+  "qr_id": "1000000003",
+  "story": {
+    "ca": "Els contrabandistes usaven senyals visuals, nusos de corda i sons d'ocells per avisar-se dels guàrdies. Ara heu de desxifrar un missatge de substitució: cada lletra original s'ha avançat 3 posicions en l'alfabet. Si A es converteix en D, B en E i C en F, quin missatge amaga JXFUGD?",
+    "es": "Los contrabandistas usaban señales visuales, nudos de cuerda y sonidos de aves para avisarse de los guardias. Ahora debéis descifrar un mensaje de sustitución: cada letra original se ha desplazado 3 posiciones en el alfabeto. Si A se convierte en D, B en E y C en F, ¿qué mensaje esconde JXFUGD?",
+    "en": "Smugglers used visual signs, rope knots and bird calls to warn each other about guards. Now decode a substitution message: each original letter has been shifted 3 places forward in the alphabet. If A becomes D, B becomes E and C becomes F, what message is hidden in JXFUGD?",
+    "fr": "Les contrebandiers utilisaient des signaux visuels, des nœuds de corde et des cris d'oiseaux pour se prévenir de la présence des gardes. Déchiffrez maintenant un message par substitution : chaque lettre originale a été avancée de 3 positions dans l'alphabet. Si A devient D, B devient E et C devient F, quel message cache JXFUGD ?"
+  },
+  "location_hint": {
+    "ca": "Encara al Bloc 1, resoleu el codi abans d'avançar cap al camí de bast.",
+    "es": "Aún en el Bloque 1, resolved el código antes de avanzar hacia el camino de herradura.",
+    "en": "Still in Block 1, solve the code before moving towards the pack trail.",
+    "fr": "Toujours dans le Bloc 1, résolvez le code avant d'avancer vers le chemin muletier."
+  },
+  "answer": {
+    "type": "exact",
+    "value": [
+      "GUARDS",
+      "GUARDA",
+      "GUARDES",
+      "GUARD"
+    ]
+  },
+  "max_time_seconds": 600,
+  "points": 100,
+  "hints": [
+    {
+      "level": 1,
+      "penalty": 0,
+      "text": {
+        "ca": "Si per xifrar s'avança 3, per desxifrar cal retrocedir 3.",
+        "es": "Si para cifrar se avanza 3, para descifrar hay que retroceder 3.",
+        "en": "If encoding moves 3 forward, decoding moves 3 backward.",
+        "fr": "Si le chiffrement avance de 3, le déchiffrement recule de 3."
+      }
+    },
+    {
+      "level": 2,
+      "penalty": 0,
+      "text": {
+        "ca": "J passa a G, X passa a U, F passa a C.",
+        "es": "J pasa a G, X pasa a U, F pasa a C.",
+        "en": "J becomes G, X becomes U, F becomes C.",
+        "fr": "J devient G, X devient U, F devient C."
+      }
+    },
+    {
+      "level": 3,
+      "penalty": 20,
+      "text": {
+        "ca": "La paraula és GUARDS.",
+        "es": "La palabra es GUARDA.",
+        "en": "The word is GUARDS.",
+        "fr": "Le mot est GUARDS."
+      }
+    }
+  ],
+  "education": {
+    "ca": "Els codis senzills eren útils per transmetre avisos ràpids sense revelar directament el missatge.",
+    "es": "Los códigos sencillos eran útiles para transmitir avisos rápidos sin revelar directamente el mensaje.",
+    "en": "Simple codes were useful for sending quick warnings without revealing the message directly.",
+    "fr": "Les codes simples permettaient de transmettre des alertes rapides sans révéler directement le message."
+  },
+  "lat": 42.2442,
+  "lon": 1.042
+}

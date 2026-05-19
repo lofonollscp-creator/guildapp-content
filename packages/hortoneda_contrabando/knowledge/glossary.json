@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "terms": [
+    {"ca": "contraban", "es": "contrabando", "en": "smuggling", "fr": "contrebande"},
+    {"ca": "company", "es": "companero", "en": "companion", "fr": "compagnon"},
+    {"ca": "cami de bast", "es": "camino de basto", "en": "pack trail", "fr": "chemin muletier"},
+    {"ca": "carabiner", "es": "carabinero", "en": "border guard", "fr": "douanier"},
+    {"ca": "gabella", "es": "gabela", "en": "salt tax", "fr": "gabelle"}
+  ]
+}

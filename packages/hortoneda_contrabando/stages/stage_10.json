@@ -1,0 +1,96 @@
+{
+  "id": "stage_10",
+  "order": 10,
+  "title": {
+    "ca": "4.1 Orientació al Pallars",
+    "es": "4.1 Orientación en el Pallars",
+    "en": "4.1 Orientation in Pallars",
+    "fr": "4.1 Orientation dans le Pallars"
+  },
+  "qr_id": "1000000010",
+  "story": {
+    "ca": "Bloc 4: El Mirador del Guàrdia. Des d'un punt elevat, els agents vigilaven moviments sospitosos, però els contrabandistes coneixien cada racó del terreny. Orienteu-vos cap al nord i identifiqueu: quin cim o serralada veieu cap al nord-est, per on corre el riu o la riera visible i cap a quin punt cardinal queda la carretera principal. Escriviu les vostres observacions.",
+    "es": "Bloque 4: El Mirador del Guardia. Desde un punto elevado, los agentes vigilaban movimientos sospechosos, pero los contrabandistas conocían cada rincón del terreno. Orientaos hacia el norte e identificad: qué cima o sierra veis hacia el nordeste, por dónde corre el río o arroyo visible y hacia qué punto cardinal queda la carretera principal. Escribid vuestras observaciones.",
+    "en": "Block 4: The Guard's Viewpoint. From a high point, officers watched for suspicious movement, but smugglers knew every corner of the land. Face north and identify: which peak or range you see to the north-east, where the visible river or stream runs and which cardinal direction the main road lies in. Write your observations.",
+    "fr": "Bloc 4 : Le belvédère du garde. Depuis un point élevé, les agents surveillaient les mouvements suspects, mais les contrebandiers connaissaient chaque recoin du terrain. Orientez-vous vers le nord et identifiez : le sommet ou la chaîne visible au nord-est, le tracé de la rivière ou du ruisseau visible et le point cardinal où se trouve la route principale. Rédigez vos observations."
+  },
+  "location_hint": {
+    "ca": "Punt elevat amb vistes al poble i a la vall.",
+    "es": "Punto elevado con vistas al pueblo y al valle.",
+    "en": "High point overlooking the village and the valley.",
+    "fr": "Point élevé avec vue sur le village et la vallée."
+  },
+  "answer": {
+    "type": "open",
+    "value": []
+  },
+  "validation": {
+    "criteria": {
+      "ca": "La resposta ha de contenir observacions d'orientació: nord o nord-est, riu o riera i carretera principal.",
+      "es": "La respuesta debe contener observaciones de orientación: norte o nordeste, río o arroyo y carretera principal.",
+      "en": "The answer must contain orientation observations: north or north-east, river or stream and main road.",
+      "fr": "La réponse doit contenir des observations d'orientation : nord ou nord-est, rivière ou ruisseau et route principale."
+    },
+    "min_length": 20,
+    "requires_number": false,
+    "keywords": [
+      "nord",
+      "norte",
+      "north",
+      "riu",
+      "rio",
+      "río",
+      "river",
+      "rivière",
+      "riera",
+      "arroyo",
+      "stream",
+      "carretera",
+      "road",
+      "route"
+    ]
+  },
+  "max_time_seconds": 600,
+  "points": 100,
+  "hints": [
+    {
+      "level": 1,
+      "penalty": 0,
+      "text": {
+        "ca": "Primer busqueu el nord amb el mapa o la brúixola del mòbil.",
+        "es": "Primero buscad el norte con el mapa o la brújula del móvil.",
+        "en": "First find north using the map or your phone compass.",
+        "fr": "Trouvez d'abord le nord avec la carte ou la boussole du téléphone."
+      }
+    },
+    {
+      "level": 2,
+      "penalty": 0,
+      "text": {
+        "ca": "No cal una resposta perfecta: cal una lectura coherent del paisatge.",
+        "es": "No hace falta una respuesta perfecta: hace falta una lectura coherente del paisaje.",
+        "en": "The answer need not be perfect: it should be a coherent reading of the landscape.",
+        "fr": "La réponse n'a pas besoin d'être parfaite : elle doit lire le paysage de façon cohérente."
+      }
+    },
+    {
+      "level": 3,
+      "penalty": 20,
+      "text": {
+        "ca": "Escriviu tres frases curtes, una per cada element.",
+        "es": "Escribid tres frases cortas, una por cada elemento.",
+        "en": "Write three short sentences, one for each element.",
+        "fr": "Rédigez trois phrases courtes, une pour chaque élément."
+      }
+    }
+  ],
+  "education": {
+    "ca": "La lectura del paisatge era una habilitat de supervivència: orientació, distàncies, passos i refugis.",
+    "es": "La lectura del paisaje era una habilidad de supervivencia: orientación, distancias, pasos y refugios.",
+    "en": "Reading the landscape was a survival skill: orientation, distances, passes and shelters.",
+    "fr": "Lire le paysage était une compétence de survie : orientation, distances, passages et abris."
+  },
+  "lat": 42.2485,
+  "lon": 1.042,
+  "field_clue": "Identifiqueu tres elements del paisatge cap al nord. Compartiu-los amb el grup i continueu."
+}

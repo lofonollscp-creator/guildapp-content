@@ -1,0 +1,86 @@
+{
+  "id": "stage_02",
+  "order": 2,
+  "title": {
+    "ca": "1.2 Observa i descriu",
+    "es": "1.2 Observa y describe",
+    "en": "1.2 Observe and Describe",
+    "fr": "1.2 Observez et décrivez"
+  },
+  "qr_id": "1000000002",
+  "story": {
+    "ca": "Continueu a la creu de pedra. Mireu amb atenció l'entorn immediat: les cases, els marges, els murs i els materials. Compteu quantes cases podeu veure des d'aquest punt i indiqueu si hi ha algun element de pedra seca visible. Escriviu una resposta breu amb el número de cases i sí/no per a la pedra seca.",
+    "es": "Continuad en la cruz de piedra. Observad con atención el entorno inmediato: las casas, los bancales, los muros y los materiales. Contad cuántas casas podéis ver desde este punto e indicad si hay algún elemento de piedra seca visible. Escribid una respuesta breve con el número de casas y sí/no para la piedra seca.",
+    "en": "Stay at the stone cross. Carefully observe the immediate surroundings: houses, terraces, walls and materials. Count how many houses you can see from this point and say whether any dry-stone element is visible. Write a short answer with the number of houses and yes/no for dry stone.",
+    "fr": "Restez à la croix de pierre. Observez attentivement les alentours immédiats : maisons, terrasses, murs et matériaux. Comptez combien de maisons vous voyez depuis ce point et indiquez s'il existe un élément en pierre sèche visible. Rédigez une réponse courte avec le nombre de maisons et oui/non pour la pierre sèche."
+  },
+  "location_hint": {
+    "ca": "Sense moure-us gaire de la creu, gireu sobre vosaltres mateixos i observeu.",
+    "es": "Sin moveros mucho de la cruz, girad sobre vosotros mismos y observad.",
+    "en": "Without moving far from the cross, turn around and observe.",
+    "fr": "Sans trop vous éloigner de la croix, tournez sur vous-mêmes et observez."
+  },
+  "answer": {
+    "type": "open",
+    "value": []
+  },
+  "validation": {
+    "criteria": {
+      "ca": "La resposta ha d'incloure el nombre de cases observades i indicar sí o no sobre la presència de pedra seca.",
+      "es": "La respuesta debe incluir el número de casas observadas e indicar sí o no sobre la presencia de piedra seca.",
+      "en": "The answer must include the number of houses observed and say yes or no about dry stone.",
+      "fr": "La réponse doit inclure le nombre de maisons observées et indiquer oui ou non pour la pierre sèche."
+    },
+    "min_length": 4,
+    "requires_number": true,
+    "keywords": [
+      "si",
+      "sí",
+      "no",
+      "yes",
+      "oui"
+    ]
+  },
+  "max_time_seconds": 600,
+  "points": 100,
+  "hints": [
+    {
+      "level": 1,
+      "penalty": 0,
+      "text": {
+        "ca": "Separeu la resposta en dues parts: nombre de cases i pedra seca.",
+        "es": "Separad la respuesta en dos partes: número de casas y piedra seca.",
+        "en": "Split the answer into two parts: number of houses and dry stone.",
+        "fr": "Séparez la réponse en deux parties : nombre de maisons et pierre sèche."
+      }
+    },
+    {
+      "level": 2,
+      "penalty": 0,
+      "text": {
+        "ca": "La pedra seca és pedra col·locada sense morter visible.",
+        "es": "La piedra seca es piedra colocada sin mortero visible.",
+        "en": "Dry stone means stones laid without visible mortar.",
+        "fr": "La pierre sèche désigne des pierres posées sans mortier visible."
+      }
+    },
+    {
+      "level": 3,
+      "penalty": 20,
+      "text": {
+        "ca": "Qualsevol observació raonada és vàlida si heu mirat bé l'entorn.",
+        "es": "Cualquier observación razonada es válida si habéis mirado bien el entorno.",
+        "en": "Any reasoned observation is valid if you have looked carefully.",
+        "fr": "Toute observation argumentée est valable si vous avez bien observé."
+      }
+    }
+  ],
+  "education": {
+    "ca": "L'observació del paisatge ajuda a entendre com es controlaven els accessos i els moviments al poble.",
+    "es": "La observación del paisaje ayuda a entender cómo se controlaban los accesos y los movimientos en el pueblo.",
+    "en": "Observing the landscape helps explain how access and movement in the village were controlled.",
+    "fr": "L'observation du paysage aide à comprendre comment les accès et les déplacements dans le village étaient contrôlés."
+  },
+  "lat": 42.2441,
+  "lon": 1.0419
+}

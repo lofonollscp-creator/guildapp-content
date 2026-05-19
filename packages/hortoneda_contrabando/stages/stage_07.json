@@ -1,0 +1,98 @@
+{
+  "id": "stage_07",
+  "order": 7,
+  "title": {
+    "ca": "3.1 Arquitectura del secret",
+    "es": "3.1 Arquitectura del secreto",
+    "en": "3.1 Architecture of Secrecy",
+    "fr": "3.1 Architecture du secret"
+  },
+  "qr_id": "1000000007",
+  "story": {
+    "ca": "Bloc 3: La Casa de l'Amagatall. Moltes cases del Pallars tenien cellers, dobles parets o falsos sostres on es podia amagar mercaderia. Observeu la façana indicada i responeu: de quin material és, quantes finestres té la planta baixa i si hi ha cap arc o portal de pedra visible.",
+    "es": "Bloque 3: La Casa del Escondite. Muchas casas del Pallars tenían bodegas, dobles paredes o falsos techos donde se podía esconder mercancía. Observad la fachada indicada y responded: de qué material es, cuántas ventanas tiene la planta baja y si hay algún arco o portal de piedra visible.",
+    "en": "Block 3: The Hideout House. Many houses in Pallars had cellars, double walls or false ceilings where goods could be hidden. Observe the indicated facade and answer: what material it is made of, how many ground-floor windows it has and whether there is a visible stone arch or doorway.",
+    "fr": "Bloc 3 : La maison de la cachette. De nombreuses maisons du Pallars possédaient des caves, des doubles murs ou de faux plafonds où l'on pouvait cacher des marchandises. Observez la façade indiquée et répondez : son matériau, le nombre de fenêtres au rez-de-chaussée et la présence éventuelle d'un arc ou portail en pierre."
+  },
+  "location_hint": {
+    "ca": "Façana de la casa tradicional indicada pel recorregut o pel monitor/a.",
+    "es": "Fachada de la casa tradicional indicada por el recorrido o por el monitor/a.",
+    "en": "Facade of the traditional house indicated by the route or by the guide.",
+    "fr": "Façade de la maison traditionnelle indiquée par le parcours ou par l'animateur."
+  },
+  "answer": {
+    "type": "open",
+    "value": []
+  },
+  "validation": {
+    "criteria": {
+      "ca": "La resposta ha de descriure la façana amb material, finestres i arc o portal visible.",
+      "es": "La respuesta debe describir la fachada con material, ventanas y arco o portal visible.",
+      "en": "The answer must describe the facade with material, windows and visible arch or doorway.",
+      "fr": "La réponse doit décrire la façade avec matériau, fenêtres et arc ou portail visible."
+    },
+    "min_length": 12,
+    "requires_number": false,
+    "keywords": [
+      "façana",
+      "facana",
+      "fachada",
+      "facade",
+      "façade",
+      "pedra",
+      "piedra",
+      "stone",
+      "pierre",
+      "finestra",
+      "ventana",
+      "window",
+      "fenetre",
+      "fenêtre",
+      "arc",
+      "portal"
+    ]
+  },
+  "max_time_seconds": 600,
+  "points": 100,
+  "hints": [
+    {
+      "level": 1,
+      "penalty": 0,
+      "text": {
+        "ca": "Escriviu les tres respostes en una sola frase.",
+        "es": "Escribid las tres respuestas en una sola frase.",
+        "en": "Write the three answers in one sentence.",
+        "fr": "Rédigez les trois réponses en une seule phrase."
+      }
+    },
+    {
+      "level": 2,
+      "penalty": 0,
+      "text": {
+        "ca": "No cal endevinar res: només observar material, finestres i portal.",
+        "es": "No hace falta adivinar nada: solo observar material, ventanas y portal.",
+        "en": "No guessing is needed: just observe material, windows and doorway.",
+        "fr": "Il n'est pas nécessaire de deviner : observez matériau, fenêtres et portail."
+      }
+    },
+    {
+      "level": 3,
+      "penalty": 20,
+      "text": {
+        "ca": "Si no esteu segurs, descriviu el que veieu amb vocabulari senzill.",
+        "es": "Si no estáis seguros, describid lo que veis con vocabulario sencillo.",
+        "en": "If unsure, describe what you see in simple words.",
+        "fr": "Si vous n'êtes pas sûrs, décrivez ce que vous voyez avec des mots simples."
+      }
+    }
+  ],
+  "education": {
+    "ca": "L'arquitectura popular parla d'economia, clima, materials disponibles i formes de vida.",
+    "es": "La arquitectura popular habla de economía, clima, materiales disponibles y formas de vida.",
+    "en": "Vernacular architecture reveals economy, climate, available materials and ways of life.",
+    "fr": "L'architecture populaire révèle l'économie, le climat, les matériaux disponibles et les modes de vie."
+  },
+  "lat": 42.2456,
+  "lon": 1.0433,
+  "field_clue": "Mireu el dintel de la porta i descriviu l'element més antic que veieu. Continueu després."
+}

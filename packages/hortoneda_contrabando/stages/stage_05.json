@@ -1,0 +1,91 @@
+{
+  "id": "stage_05",
+  "order": 5,
+  "title": {
+    "ca": "2.2 La ruta amagada",
+    "es": "2.2 La ruta escondida",
+    "en": "2.2 The Hidden Route",
+    "fr": "2.2 La route cachée"
+  },
+  "qr_id": "1000000005",
+  "story": {
+    "ca": "Davant vostre hi ha una bifurcació. Els contrabandistes evitaven el camí principal quan podien. Seguiu el camí de la dreta durant exactament 30 passos. Atureu-vos, busqueu una pedra gran amb una marca o un forat visible a la base i descriviu què heu trobat.",
+    "es": "Delante de vosotros hay una bifurcación. Los contrabandistas evitaban el camino principal cuando podían. Seguid el camino de la derecha durante exactamente 30 pasos. Deteneos, buscad una piedra grande con una marca o un agujero visible en la base y describid qué habéis encontrado.",
+    "en": "There is a fork in front of you. Smugglers avoided the main path whenever they could. Follow the path on the right for exactly 30 steps. Stop, look for a large stone with a visible mark or hole at its base and describe what you found.",
+    "fr": "Une bifurcation se trouve devant vous. Les contrebandiers évitaient le chemin principal dès qu'ils le pouvaient. Suivez le chemin de droite pendant exactement 30 pas. Arrêtez-vous, cherchez une grosse pierre avec une marque ou un trou visible à sa base et décrivez ce que vous avez trouvé."
+  },
+  "location_hint": {
+    "ca": "Bifurcació del camí de bast, a l'inici del tram cap al bosc.",
+    "es": "Bifurcación del camino de herradura, al inicio del tramo hacia el bosque.",
+    "en": "Fork on the pack trail, at the beginning of the section towards the woods.",
+    "fr": "Bifurcation du chemin muletier, au début du tronçon vers la forêt."
+  },
+  "answer": {
+    "type": "open",
+    "value": []
+  },
+  "validation": {
+    "criteria": {
+      "ca": "La resposta ha de descriure una pedra, marca, forat o element observat després de caminar 30 passos.",
+      "es": "La respuesta debe describir una piedra, marca, agujero o elemento observado tras caminar 30 pasos.",
+      "en": "The answer must describe a stone, mark, hole or observed element after walking 30 steps.",
+      "fr": "La réponse doit décrire une pierre, une marque, un trou ou un élément observé après 30 pas."
+    },
+    "min_length": 10,
+    "requires_number": false,
+    "keywords": [
+      "pedra",
+      "piedra",
+      "stone",
+      "pierre",
+      "marca",
+      "mark",
+      "forat",
+      "agujero",
+      "hole",
+      "trou"
+    ]
+  },
+  "max_time_seconds": 600,
+  "points": 100,
+  "hints": [
+    {
+      "level": 1,
+      "penalty": 0,
+      "text": {
+        "ca": "Feu passos regulars, no gambades.",
+        "es": "Dad pasos regulares, no zancadas.",
+        "en": "Take regular steps, not long strides.",
+        "fr": "Faites des pas réguliers, pas de grandes enjambées."
+      }
+    },
+    {
+      "level": 2,
+      "penalty": 0,
+      "text": {
+        "ca": "Mireu sobretot la base de les pedres grans.",
+        "es": "Mirad sobre todo la base de las piedras grandes.",
+        "en": "Look especially at the base of large stones.",
+        "fr": "Regardez surtout la base des grosses pierres."
+      }
+    },
+    {
+      "level": 3,
+      "penalty": 20,
+      "text": {
+        "ca": "Escriviu una descripció curta del que veieu i continueu.",
+        "es": "Escribid una descripción corta de lo que veis y continuad.",
+        "en": "Write a short description of what you see and continue.",
+        "fr": "Rédigez une courte description de ce que vous voyez et continuez."
+      }
+    }
+  ],
+  "education": {
+    "ca": "Les rutes secundàries reduïen el risc de ser vistos i aprofitaven el coneixement local del terreny.",
+    "es": "Las rutas secundarias reducían el riesgo de ser vistos y aprovechaban el conocimiento local del terreno.",
+    "en": "Secondary routes reduced the risk of being seen and relied on local knowledge of the terrain.",
+    "fr": "Les routes secondaires réduisaient le risque d'être vus et s'appuyaient sur la connaissance locale du terrain."
+  },
+  "lat": 42.2465,
+  "lon": 1.0403
+}

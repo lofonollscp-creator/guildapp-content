@@ -1,0 +1,96 @@
+{
+  "id": "stage_12",
+  "order": 12,
+  "title": {
+    "ca": "4.3 El missatge final",
+    "es": "4.3 El mensaje final",
+    "en": "4.3 The Final Message",
+    "fr": "4.3 Le message final"
+  },
+  "qr_id": "1000000012",
+  "story": {
+    "ca": "Heu arribat al final de la Ruta del Contraban. En grup, responeu aquestes preguntes: creieu que els contrabandistes eren herois, criminals o persones que intentaven sobreviure? Quina ubicació us ha ajudat més a entendre la vida al Pallars? Si haguéssiu viscut al segle XIX a Hortoneda, hauríeu participat en el contraban? Escriviu una reflexió breu per completar la gimcana.",
+    "es": "Habéis llegado al final de la Ruta del Contrabando. En grupo, responded estas preguntas: ¿creéis que los contrabandistas eran héroes, criminales o personas que intentaban sobrevivir? ¿Qué ubicación os ha ayudado más a entender la vida en el Pallars? Si hubierais vivido en el siglo XIX en Hortoneda, ¿habríais participado en el contrabando? Escribid una reflexión breve para completar la gimcana.",
+    "en": "You have reached the end of the Smuggling Route. As a group, answer these questions: do you think smugglers were heroes, criminals or people trying to survive? Which location helped you best understand life in Pallars? If you had lived in 19th-century Hortoneda, would you have taken part in smuggling? Write a brief reflection to complete the activity.",
+    "fr": "Vous êtes arrivés à la fin de la Route de la contrebande. En groupe, répondez à ces questions : les contrebandiers étaient-ils des héros, des criminels ou des personnes qui tentaient de survivre ? Quel lieu vous a le plus aidés à comprendre la vie dans le Pallars ? Si vous aviez vécu au XIXe siècle à Hortoneda, auriez-vous participé à la contrebande ? Rédigez une brève réflexion pour terminer l'activité."
+  },
+  "location_hint": {
+    "ca": "Mirador del Guàrdia. Busqueu un punt segur per parlar en grup.",
+    "es": "Mirador del Guardia. Buscad un punto seguro para hablar en grupo.",
+    "en": "The Guard's Viewpoint. Find a safe spot for group discussion.",
+    "fr": "Belvédère du garde. Trouvez un endroit sûr pour discuter en groupe."
+  },
+  "answer": {
+    "type": "open",
+    "value": []
+  },
+  "validation": {
+    "criteria": {
+      "ca": "La resposta ha de ser una reflexió breu i coherent sobre el paper dels contrabandistes, la ubicació més significativa i la decisió personal del grup.",
+      "es": "La respuesta debe ser una reflexión breve y coherente sobre el papel de los contrabandistas, la ubicación más significativa y la decisión personal del grupo.",
+      "en": "The answer must be a short coherent reflection on the role of smugglers, the most meaningful location and the group's personal decision.",
+      "fr": "La réponse doit être une courte réflexion cohérente sur le rôle des contrebandiers, le lieu le plus significatif et la décision personnelle du groupe."
+    },
+    "min_length": 30,
+    "requires_number": false,
+    "keywords": [
+      "contraband",
+      "contraban",
+      "contrabando",
+      "contrebande",
+      "heroi",
+      "heroe",
+      "héroe",
+      "hero",
+      "criminal",
+      "sobreviure",
+      "sobrevivir",
+      "survive",
+      "survivre",
+      "hortoneda",
+      "pallars"
+    ]
+  },
+  "max_time_seconds": 600,
+  "points": 100,
+  "hints": [
+    {
+      "level": 1,
+      "penalty": 0,
+      "text": {
+        "ca": "No hi ha una única resposta correcta: argumenteu la vostra opinió.",
+        "es": "No hay una única respuesta correcta: argumentad vuestra opinión.",
+        "en": "There is no single correct answer: explain your view.",
+        "fr": "Il n'y a pas une seule bonne réponse : argumentez votre opinion."
+      }
+    },
+    {
+      "level": 2,
+      "penalty": 0,
+      "text": {
+        "ca": "Podeu repartir-vos les tres preguntes i unir les idees en un text.",
+        "es": "Podéis repartiros las tres preguntas y unir las ideas en un texto.",
+        "en": "You can divide the three questions and combine your ideas into one text.",
+        "fr": "Vous pouvez vous partager les trois questions et réunir vos idées dans un texte."
+      }
+    },
+    {
+      "level": 3,
+      "penalty": 20,
+      "text": {
+        "ca": "Escriviu 3 o 4 frases clares per tancar l'experiència.",
+        "es": "Escribid 3 o 4 frases claras para cerrar la experiencia.",
+        "en": "Write 3 or 4 clear sentences to close the experience.",
+        "fr": "Rédigez 3 ou 4 phrases claires pour conclure l'expérience."
+      }
+    }
+  ],
+  "education": {
+    "ca": "El contraban no s'entén només com delicte: també parla de pobresa, fronteres, supervivència i desigualtat territorial.",
+    "es": "El contrabando no se entiende solo como delito: también habla de pobreza, fronteras, supervivencia y desigualdad territorial.",
+    "en": "Smuggling is not only about crime: it also speaks of poverty, borders, survival and territorial inequality.",
+    "fr": "La contrebande ne se comprend pas seulement comme un délit : elle parle aussi de pauvreté, de frontières, de survie et d'inégalités territoriales."
+  },
+  "lat": 42.2491,
+  "lon": 1.0411
+}
