@@ -1,0 +1,49 @@
+{
+  "id": "stage_04",
+  "order": 4,
+  "title": {
+    "ca": "Tancament de la visita",
+    "es": "Cierre de la visita",
+    "en": "Tour closing",
+    "fr": "Cloture de la visite"
+  },
+  "qr_id": "ARAMUNT-04",
+  "story": {
+    "ca": "Parada final pendent de desenvolupar. Resumeix els aprenentatges, connecta passat i present i indica el retorn o continuacio de la ruta.",
+    "es": "Parada final pendiente de desarrollar. Resume los aprendizajes, conecta pasado y presente e indica el retorno o continuacion de la ruta.",
+    "en": "Final stop pending development. Summarise the takeaways, connect past and present, and indicate the return or route continuation.",
+    "fr": "Dernier arret a developper. Resumez les apprentissages, reliez passe et present, et indiquez le retour ou la suite du parcours."
+  },
+  "location_hint": {
+    "ca": "Defineix el punt final o mirador de tancament.",
+    "es": "Define el punto final o mirador de cierre.",
+    "en": "Define the final stop or closing viewpoint.",
+    "fr": "Definissez le point final ou le belvedere de cloture."
+  },
+  "answer": {
+    "type": "tour",
+    "values": []
+  },
+  "validation": {
+    "criteria": {
+      "ca": "",
+      "es": "",
+      "en": "",
+      "fr": ""
+    },
+    "keywords": [],
+    "requires_number": false,
+    "min_length": 0
+  },
+  "max_time_seconds": 1800,
+  "points": 0,
+  "hints": [],
+  "education": {
+    "ca": "Nota educativa pendent de desenvolupar.",
+    "es": "Nota educativa pendiente de desarrollar.",
+    "en": "Educational note pending development.",
+    "fr": "Note educative a developper."
+  },
+  "rals_award": 0,
+  "requires_items": []
+}

@@ -1,0 +1,49 @@
+{
+  "id": "stage_03",
+  "order": 3,
+  "title": {
+    "ca": "Del Pallars al mon",
+    "es": "Del Pallars al mundo",
+    "en": "From Pallars to the world",
+    "fr": "Du Pallars au monde"
+  },
+  "qr_id": "BENET-03",
+  "story": {
+    "ca": "Parada pendent de desenvolupar. Explica la projeccio exterior de l'artista i la connexio entre territori local i trajectoria internacional.",
+    "es": "Parada pendiente de desarrollar. Explica la proyeccion exterior del artista y la conexion entre territorio local y trayectoria internacional.",
+    "en": "Stop pending development. Explain the artist's wider projection and the connection between local territory and international career.",
+    "fr": "Arret a developper. Expliquez le rayonnement de l'artiste et le lien entre territoire local et parcours international."
+  },
+  "location_hint": {
+    "ca": "Defineix un punt que permeti connectar Tremp amb una mirada mes amplia.",
+    "es": "Define un punto que permita conectar Tremp con una mirada mas amplia.",
+    "en": "Define a stop that connects Tremp with a wider perspective.",
+    "fr": "Definissez un point qui relie Tremp a une perspective plus large."
+  },
+  "answer": {
+    "type": "tour",
+    "values": []
+  },
+  "validation": {
+    "criteria": {
+      "ca": "",
+      "es": "",
+      "en": "",
+      "fr": ""
+    },
+    "keywords": [],
+    "requires_number": false,
+    "min_length": 0
+  },
+  "max_time_seconds": 1800,
+  "points": 0,
+  "hints": [],
+  "education": {
+    "ca": "Nota educativa pendent de desenvolupar.",
+    "es": "Nota educativa pendiente de desarrollar.",
+    "en": "Educational note pending development.",
+    "fr": "Note educative a developper."
+  },
+  "rals_award": 0,
+  "requires_items": []
+}

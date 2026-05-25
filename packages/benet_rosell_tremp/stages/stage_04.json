@@ -1,0 +1,49 @@
+{
+  "id": "stage_04",
+  "order": 4,
+  "title": {
+    "ca": "Llegat i tancament",
+    "es": "Legado y cierre",
+    "en": "Legacy and closing",
+    "fr": "Heritage et cloture"
+  },
+  "qr_id": "BENET-04",
+  "story": {
+    "ca": "Parada final pendent de desenvolupar. Resumeix el llegat de Benet Rosell i proposa una conclusio interpretativa per als visitants.",
+    "es": "Parada final pendiente de desarrollar. Resume el legado de Benet Rosell y propone una conclusion interpretativa para los visitantes.",
+    "en": "Final stop pending development. Summarise Benet Rosell's legacy and propose an interpretive conclusion for visitors.",
+    "fr": "Dernier arret a developper. Resumez l'heritage de Benet Rosell et proposez une conclusion interpretative pour les visiteurs."
+  },
+  "location_hint": {
+    "ca": "Defineix el punt final de la visita.",
+    "es": "Define el punto final de la visita.",
+    "en": "Define the final stop of the visit.",
+    "fr": "Definissez le point final de la visite."
+  },
+  "answer": {
+    "type": "tour",
+    "values": []
+  },
+  "validation": {
+    "criteria": {
+      "ca": "",
+      "es": "",
+      "en": "",
+      "fr": ""
+    },
+    "keywords": [],
+    "requires_number": false,
+    "min_length": 0
+  },
+  "max_time_seconds": 1800,
+  "points": 0,
+  "hints": [],
+  "education": {
+    "ca": "Nota educativa pendent de desenvolupar.",
+    "es": "Nota educativa pendiente de desarrollar.",
+    "en": "Educational note pending development.",
+    "fr": "Note educative a developper."
+  },
+  "rals_award": 0,
+  "requires_items": []
+}

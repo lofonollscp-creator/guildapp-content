@@ -1,0 +1,49 @@
+{
+  "id": "stage_02",
+  "order": 2,
+  "title": {
+    "ca": "Llenguatges artistics i experimentacio",
+    "es": "Lenguajes artisticos y experimentacion",
+    "en": "Artistic languages and experimentation",
+    "fr": "Langages artistiques et experimentation"
+  },
+  "qr_id": "BENET-02",
+  "story": {
+    "ca": "Parada pendent de desenvolupar. Usa-la per explicar els llenguatges, formats i interessos creatius de Benet Rosell.",
+    "es": "Parada pendiente de desarrollar. Usala para explicar los lenguajes, formatos e intereses creativos de Benet Rosell.",
+    "en": "Stop pending development. Use it to explain Benet Rosell's artistic languages, formats and creative interests.",
+    "fr": "Arret a developper. Utilisez-le pour expliquer les langages, formats et interets creatifs de Benet Rosell."
+  },
+  "location_hint": {
+    "ca": "Associa aquesta parada a un espai adequat per parlar d'art i creacio.",
+    "es": "Asocia esta parada a un espacio adecuado para hablar de arte y creacion.",
+    "en": "Link this stop to a suitable place to discuss art and creation.",
+    "fr": "Associez cet arret a un lieu adapte pour parler d'art et de creation."
+  },
+  "answer": {
+    "type": "tour",
+    "values": []
+  },
+  "validation": {
+    "criteria": {
+      "ca": "",
+      "es": "",
+      "en": "",
+      "fr": ""
+    },
+    "keywords": [],
+    "requires_number": false,
+    "min_length": 0
+  },
+  "max_time_seconds": 1800,
+  "points": 0,
+  "hints": [],
+  "education": {
+    "ca": "Nota educativa pendent de desenvolupar.",
+    "es": "Nota educativa pendiente de desarrollar.",
+    "en": "Educational note pending development.",
+    "fr": "Note educative a developper."
+  },
+  "rals_award": 0,
+  "requires_items": []
+}

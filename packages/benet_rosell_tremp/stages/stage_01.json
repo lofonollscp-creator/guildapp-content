@@ -1,0 +1,49 @@
+{
+  "id": "stage_01",
+  "order": 1,
+  "title": {
+    "ca": "Tremp com a punt de partida",
+    "es": "Tremp como punto de partida",
+    "en": "Tremp as a starting point",
+    "fr": "Tremp comme point de depart"
+  },
+  "qr_id": "BENET-01",
+  "story": {
+    "ca": "Punt inicial pendent de desenvolupar. Situa aqui la relacio entre Tremp, el territori i l'inici del relat biografic de Benet Rosell.",
+    "es": "Punto inicial pendiente de desarrollar. Situa aqui la relacion entre Tremp, el territorio y el inicio del relato biografico de Benet Rosell.",
+    "en": "Initial stop pending development. Add the relationship between Tremp, the territory and the beginning of Benet Rosell's biographical narrative here.",
+    "fr": "Premier point a developper. Ajoutez ici le lien entre Tremp, le territoire et le debut du recit biographique de Benet Rosell."
+  },
+  "location_hint": {
+    "ca": "Defineix el punt exacte d'inici de la visita a Tremp.",
+    "es": "Define el punto exacto de inicio de la visita en Tremp.",
+    "en": "Define the exact starting point of the visit in Tremp.",
+    "fr": "Definissez le point exact de depart de la visite a Tremp."
+  },
+  "answer": {
+    "type": "tour",
+    "values": []
+  },
+  "validation": {
+    "criteria": {
+      "ca": "",
+      "es": "",
+      "en": "",
+      "fr": ""
+    },
+    "keywords": [],
+    "requires_number": false,
+    "min_length": 0
+  },
+  "max_time_seconds": 1800,
+  "points": 0,
+  "hints": [],
+  "education": {
+    "ca": "Nota educativa pendent de desenvolupar.",
+    "es": "Nota educativa pendiente de desarrollar.",
+    "en": "Educational note pending development.",
+    "fr": "Note educative a developper."
+  },
+  "rals_award": 0,
+  "requires_items": []
+}

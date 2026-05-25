@@ -1,0 +1,57 @@
+{
+  "id": "benet_rosell_tremp",
+  "type": "guided_tour",
+  "title": {
+    "ca": "De Tremp al mon: la vida de Benet Rosell",
+    "es": "De Tremp al mundo: la vida de Benet Rosell",
+    "en": "From Tremp to the world: the life of Benet Rosell",
+    "fr": "De Tremp au monde : la vie de Benet Rosell"
+  },
+  "default_language": "ca",
+  "languages": ["ca", "es", "en", "fr"],
+  "theme": {
+    "ca": "Visita guiada sobre art, territori i memoria contemporania al voltant de Benet Rosell.",
+    "es": "Visita guiada sobre arte, territorio y memoria contemporanea en torno a Benet Rosell.",
+    "en": "Guided tour about art, territory and contemporary memory around Benet Rosell.",
+    "fr": "Visite guidee sur l'art, le territoire et la memoire contemporaine autour de Benet Rosell."
+  },
+  "estimated_duration_minutes": 75,
+  "scoring": {
+    "initial_score": 0,
+    "skip_stage_penalty": 0,
+    "advanced_hint_penalty": 0,
+    "wrong_answer_penalty": 0
+  },
+  "stages": [
+    "stage_01",
+    "stage_02",
+    "stage_03",
+    "stage_04"
+  ],
+  "blocks": [
+    {
+      "id": "route",
+      "order": 1,
+      "title": {
+        "ca": "Itinerari Benet Rosell",
+        "es": "Itinerario Benet Rosell",
+        "en": "Benet Rosell itinerary",
+        "fr": "Itineraire Benet Rosell"
+      },
+      "description": {
+        "ca": "Esborrany inicial de la visita. Edita, amplia i reordena les parades des del GuildApp Pack Editor.",
+        "es": "Borrador inicial de la visita. Edita, amplía y reordena las paradas desde GuildApp Pack Editor.",
+        "en": "Initial tour draft. Edit, expand and reorder stops from GuildApp Pack Editor.",
+        "fr": "Brouillon initial de la visite. Modifiez, developpez et reorganisez les arrets depuis GuildApp Pack Editor."
+      },
+      "stages": ["stage_01", "stage_02", "stage_03", "stage_04"],
+      "icon": "lock",
+      "next_block_hint": {
+        "ca": "",
+        "es": "",
+        "en": "",
+        "fr": ""
+      }
+    }
+  ]
+}

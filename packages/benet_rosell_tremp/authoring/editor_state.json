@@ -1,0 +1,15 @@
+{
+  "schema": "guild_app_editor_state",
+  "version": 1,
+  "saved_at": "2026-05-25T00:00:00.000Z",
+  "compatibility": {
+    "app_runtime": {
+      "substages": "authoring_only",
+      "narrations": "before_after_stage_native",
+      "encounters": "authoring_only"
+    }
+  },
+  "substagesByStage": {},
+  "narrations": [],
+  "encounters": []
+}

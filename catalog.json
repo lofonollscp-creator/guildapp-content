@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-19",
+  "updated_at": "2026-05-25",
   "models": [
     {
       "id": "qwen2_5_0_5b_instruct_q4",
@@ -80,7 +80,7 @@
         "fr": "Route patrimoniale guidee. Prochainement disponible."
       },
       "author": "Guilda Assessors Històrics, S.L.",
-      "stage_count": 0,
+      "stage_count": 4,
       "estimated_duration_minutes": 90,
       "bundled": false,
       "installed": false,
@@ -91,8 +91,24 @@
         "en": "Coming soon",
         "fr": "Prochainement"
       },
-      "download_base_url": "",
-      "files": []
+      "download_base_url": "https://raw.githubusercontent.com/lofonollscp-creator/guildapp-content/main/packages/aramunt_vell_visit",
+      "files": [
+        "escape_room.json",
+        "authoring/editor_state.json",
+        "knowledge/glossary.json",
+        "knowledge/history_ca.md",
+        "knowledge/history_en.md",
+        "knowledge/history_es.md",
+        "knowledge/history_fr.md",
+        "knowledge/intro_ca.md",
+        "knowledge/intro_en.md",
+        "knowledge/intro_es.md",
+        "knowledge/intro_fr.md",
+        "stages/stage_01.json",
+        "stages/stage_02.json",
+        "stages/stage_03.json",
+        "stages/stage_04.json"
+      ]
     },
     {
       "id": "benet_rosell_tremp",
@@ -111,7 +127,7 @@
         "fr": "Visite guidee sur l'art, le territoire et la memoire contemporaine. Prochainement disponible."
       },
       "author": "Guilda Assessors Històrics, S.L.",
-      "stage_count": 0,
+      "stage_count": 4,
       "estimated_duration_minutes": 75,
       "bundled": false,
       "installed": false,
@@ -122,8 +138,24 @@
         "en": "Coming soon",
         "fr": "Prochainement"
       },
-      "download_base_url": "",
-      "files": []
+      "download_base_url": "https://raw.githubusercontent.com/lofonollscp-creator/guildapp-content/main/packages/benet_rosell_tremp",
+      "files": [
+        "escape_room.json",
+        "authoring/editor_state.json",
+        "knowledge/glossary.json",
+        "knowledge/history_ca.md",
+        "knowledge/history_en.md",
+        "knowledge/history_es.md",
+        "knowledge/history_fr.md",
+        "knowledge/intro_ca.md",
+        "knowledge/intro_en.md",
+        "knowledge/intro_es.md",
+        "knowledge/intro_fr.md",
+        "stages/stage_01.json",
+        "stages/stage_02.json",
+        "stages/stage_03.json",
+        "stages/stage_04.json"
+      ]
     }
   ]
 }

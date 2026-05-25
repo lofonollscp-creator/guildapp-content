@@ -1,0 +1,49 @@
+{
+  "id": "stage_03",
+  "order": 3,
+  "title": {
+    "ca": "Pedra, cases i vida quotidiana",
+    "es": "Piedra, casas y vida cotidiana",
+    "en": "Stone, houses and everyday life",
+    "fr": "Pierre, maisons et vie quotidienne"
+  },
+  "qr_id": "ARAMUNT-03",
+  "story": {
+    "ca": "Parada pendent de desenvolupar. Usa-la per explicar arquitectura popular, oficis, espais domestics i formes de vida.",
+    "es": "Parada pendiente de desarrollar. Usala para explicar arquitectura popular, oficios, espacios domesticos y formas de vida.",
+    "en": "Stop pending development. Use it to explain vernacular architecture, trades, domestic spaces and ways of life.",
+    "fr": "Arret a developper. Utilisez-le pour expliquer l'architecture populaire, les metiers, les espaces domestiques et les modes de vie."
+  },
+  "location_hint": {
+    "ca": "Defineix aqui el tram o element arquitectonic que vols destacar.",
+    "es": "Define aqui el tramo o elemento arquitectonico que quieres destacar.",
+    "en": "Define here the section or architectural element to highlight.",
+    "fr": "Definissez ici la section ou l'element architectural a mettre en valeur."
+  },
+  "answer": {
+    "type": "tour",
+    "values": []
+  },
+  "validation": {
+    "criteria": {
+      "ca": "",
+      "es": "",
+      "en": "",
+      "fr": ""
+    },
+    "keywords": [],
+    "requires_number": false,
+    "min_length": 0
+  },
+  "max_time_seconds": 1800,
+  "points": 0,
+  "hints": [],
+  "education": {
+    "ca": "Nota educativa pendent de desenvolupar.",
+    "es": "Nota educativa pendiente de desarrollar.",
+    "en": "Educational note pending development.",
+    "fr": "Note educative a developper."
+  },
+  "rals_award": 0,
+  "requires_items": []
+}

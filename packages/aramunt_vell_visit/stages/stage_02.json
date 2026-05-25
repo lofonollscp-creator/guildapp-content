@@ -1,0 +1,49 @@
+{
+  "id": "stage_02",
+  "order": 2,
+  "title": {
+    "ca": "Memoria del poble antic",
+    "es": "Memoria del pueblo antiguo",
+    "en": "Memory of the old village",
+    "fr": "Memoire de l'ancien village"
+  },
+  "qr_id": "ARAMUNT-02",
+  "story": {
+    "ca": "Parada pendent de desenvolupar. Afegeix-hi la historia d'Aramunt Vell, els canvis de poblament i els elements visibles al recorregut.",
+    "es": "Parada pendiente de desarrollar. Anade la historia de Aramunt Vell, los cambios de poblamiento y los elementos visibles del recorrido.",
+    "en": "Stop pending development. Add the history of Aramunt Vell, settlement changes and visible route elements.",
+    "fr": "Arret a developper. Ajoutez l'histoire d'Aramunt Vell, les changements d'habitat et les elements visibles du parcours."
+  },
+  "location_hint": {
+    "ca": "Associa aquesta parada al punt patrimonial principal del poble antic.",
+    "es": "Asocia esta parada al punto patrimonial principal del pueblo antiguo.",
+    "en": "Link this stop to the main heritage point of the old village.",
+    "fr": "Associez cet arret au principal point patrimonial de l'ancien village."
+  },
+  "answer": {
+    "type": "tour",
+    "values": []
+  },
+  "validation": {
+    "criteria": {
+      "ca": "",
+      "es": "",
+      "en": "",
+      "fr": ""
+    },
+    "keywords": [],
+    "requires_number": false,
+    "min_length": 0
+  },
+  "max_time_seconds": 1800,
+  "points": 0,
+  "hints": [],
+  "education": {
+    "ca": "Nota educativa pendent de desenvolupar.",
+    "es": "Nota educativa pendiente de desarrollar.",
+    "en": "Educational note pending development.",
+    "fr": "Note educative a developper."
+  },
+  "rals_award": 0,
+  "requires_items": []
+}

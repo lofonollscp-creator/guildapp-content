@@ -1,0 +1,57 @@
+{
+  "id": "aramunt_vell_visit",
+  "type": "guided_tour",
+  "title": {
+    "ca": "Visita a l'Aramunt Vell",
+    "es": "Visita a l'Aramunt Vell",
+    "en": "Visit to Aramunt Vell",
+    "fr": "Visite de l'Aramunt Vell"
+  },
+  "default_language": "ca",
+  "languages": ["ca", "es", "en", "fr"],
+  "theme": {
+    "ca": "Ruta patrimonial guiada per l'antic poble d'Aramunt Vell.",
+    "es": "Ruta patrimonial guiada por el antiguo pueblo de Aramunt Vell.",
+    "en": "Guided heritage route through the old village of Aramunt Vell.",
+    "fr": "Parcours patrimonial guide dans l'ancien village d'Aramunt Vell."
+  },
+  "estimated_duration_minutes": 90,
+  "scoring": {
+    "initial_score": 0,
+    "skip_stage_penalty": 0,
+    "advanced_hint_penalty": 0,
+    "wrong_answer_penalty": 0
+  },
+  "stages": [
+    "stage_01",
+    "stage_02",
+    "stage_03",
+    "stage_04"
+  ],
+  "blocks": [
+    {
+      "id": "route",
+      "order": 1,
+      "title": {
+        "ca": "Recorregut patrimonial",
+        "es": "Recorrido patrimonial",
+        "en": "Heritage route",
+        "fr": "Parcours patrimonial"
+      },
+      "description": {
+        "ca": "Esborrany inicial de la visita. Edita, amplia i reordena les parades des del GuildApp Pack Editor.",
+        "es": "Borrador inicial de la visita. Edita, amplía y reordena las paradas desde GuildApp Pack Editor.",
+        "en": "Initial tour draft. Edit, expand and reorder stops from GuildApp Pack Editor.",
+        "fr": "Brouillon initial de la visite. Modifiez, developpez et reorganisez les arrets depuis GuildApp Pack Editor."
+      },
+      "stages": ["stage_01", "stage_02", "stage_03", "stage_04"],
+      "icon": "lock",
+      "next_block_hint": {
+        "ca": "",
+        "es": "",
+        "en": "",
+        "fr": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "stage_01",
+  "order": 1,
+  "title": {
+    "ca": "Arribada i lectura del paisatge",
+    "es": "Llegada y lectura del paisaje",
+    "en": "Arrival and landscape reading",
+    "fr": "Arrivee et lecture du paysage"
+  },
+  "qr_id": "ARAMUNT-01",
+  "story": {
+    "ca": "Punt inicial pendent de desenvolupar. Situa aqui la benvinguda, el context territorial i les indicacions de seguretat de la visita.",
+    "es": "Punto inicial pendiente de desarrollar. Situa aqui la bienvenida, el contexto territorial y las indicaciones de seguridad de la visita.",
+    "en": "Initial stop pending development. Add the welcome, territorial context and safety notes for the visit here.",
+    "fr": "Premier point a developper. Ajoutez ici l'accueil, le contexte territorial et les consignes de securite de la visite."
+  },
+  "location_hint": {
+    "ca": "Defineix el punt exacte d'inici de la ruta.",
+    "es": "Define el punto exacto de inicio de la ruta.",
+    "en": "Define the exact starting point of the route.",
+    "fr": "Definissez le point exact de depart du parcours."
+  },
+  "answer": {
+    "type": "tour",
+    "values": []
+  },
+  "validation": {
+    "criteria": {
+      "ca": "",
+      "es": "",
+      "en": "",
+      "fr": ""
+    },
+    "keywords": [],
+    "requires_number": false,
+    "min_length": 0
+  },
+  "max_time_seconds": 1800,
+  "points": 0,
+  "hints": [],
+  "education": {
+    "ca": "Nota educativa pendent de desenvolupar.",
+    "es": "Nota educativa pendiente de desarrollar.",
+    "en": "Educational note pending development.",
+    "fr": "Note educative a developper."
+  },
+  "rals_award": 0,
+  "requires_items": []
+}
