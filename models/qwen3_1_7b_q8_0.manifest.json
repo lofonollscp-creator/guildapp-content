@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "qwen3_1_7b_q8_0",
+  "file_name": "Qwen3-1.7B-Q8_0.gguf",
+  "download_url": "https://github.com/lofonollscp-creator/guildapp-content/releases/download/local-ai-model-qwen3-1-7b-q8_0/Qwen3-1.7B-Q8_0.gguf",
+  "download_parts": [
+    "https://github.com/lofonollscp-creator/guildapp-content/releases/download/local-ai-model-qwen3-1-7b-q8_0/Qwen3-1.7B-Q8_0.gguf.part-00",
+    "https://github.com/lofonollscp-creator/guildapp-content/releases/download/local-ai-model-qwen3-1-7b-q8_0/Qwen3-1.7B-Q8_0.gguf.part-01",
+    "https://github.com/lofonollscp-creator/guildapp-content/releases/download/local-ai-model-qwen3-1-7b-q8_0/Qwen3-1.7B-Q8_0.gguf.part-02",
+    "https://github.com/lofonollscp-creator/guildapp-content/releases/download/local-ai-model-qwen3-1-7b-q8_0/Qwen3-1.7B-Q8_0.gguf.part-03",
+    "https://github.com/lofonollscp-creator/guildapp-content/releases/download/local-ai-model-qwen3-1-7b-q8_0/Qwen3-1.7B-Q8_0.gguf.part-04",
+    "https://github.com/lofonollscp-creator/guildapp-content/releases/download/local-ai-model-qwen3-1-7b-q8_0/Qwen3-1.7B-Q8_0.gguf.part-05",
+    "https://github.com/lofonollscp-creator/guildapp-content/releases/download/local-ai-model-qwen3-1-7b-q8_0/Qwen3-1.7B-Q8_0.gguf.part-06",
+    "https://github.com/lofonollscp-creator/guildapp-content/releases/download/local-ai-model-qwen3-1-7b-q8_0/Qwen3-1.7B-Q8_0.gguf.part-07",
+    "https://github.com/lofonollscp-creator/guildapp-content/releases/download/local-ai-model-qwen3-1-7b-q8_0/Qwen3-1.7B-Q8_0.gguf.part-08",
+    "https://github.com/lofonollscp-creator/guildapp-content/releases/download/local-ai-model-qwen3-1-7b-q8_0/Qwen3-1.7B-Q8_0.gguf.part-09",
+    "https://github.com/lofonollscp-creator/guildapp-content/releases/download/local-ai-model-qwen3-1-7b-q8_0/Qwen3-1.7B-Q8_0.gguf.part-10",
+    "https://github.com/lofonollscp-creator/guildapp-content/releases/download/local-ai-model-qwen3-1-7b-q8_0/Qwen3-1.7B-Q8_0.gguf.part-11",
+    "https://github.com/lofonollscp-creator/guildapp-content/releases/download/local-ai-model-qwen3-1-7b-q8_0/Qwen3-1.7B-Q8_0.gguf.part-12",
+    "https://github.com/lofonollscp-creator/guildapp-content/releases/download/local-ai-model-qwen3-1-7b-q8_0/Qwen3-1.7B-Q8_0.gguf.part-13",
+    "https://github.com/lofonollscp-creator/guildapp-content/releases/download/local-ai-model-qwen3-1-7b-q8_0/Qwen3-1.7B-Q8_0.gguf.part-14",
+    "https://github.com/lofonollscp-creator/guildapp-content/releases/download/local-ai-model-qwen3-1-7b-q8_0/Qwen3-1.7B-Q8_0.gguf.part-15",
+    "https://github.com/lofonollscp-creator/guildapp-content/releases/download/local-ai-model-qwen3-1-7b-q8_0/Qwen3-1.7B-Q8_0.gguf.part-16",
+    "https://github.com/lofonollscp-creator/guildapp-content/releases/download/local-ai-model-qwen3-1-7b-q8_0/Qwen3-1.7B-Q8_0.gguf.part-17"
+  ],
+  "sha256": "061b54daade076b5d3362dac252678d17da8c68f07560be70818cace6590cb1a",
+  "bytes": 1834426016,
+  "storage": "github_release_asset"
+}
