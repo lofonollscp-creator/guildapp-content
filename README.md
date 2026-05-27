@@ -6,9 +6,14 @@ Repositorio público para paquetes descargables de GuildApp.
 
 - `catalog.json`: catálogo remoto que lee la app.
 - `packages/<pack_id>`: ficheros de cada paquete instalable.
-- `models/*.manifest.json`: metadatos del modelo local.
+- `models/*.manifest.json`: metadatos de los modelos locales.
 
-El modelo GGUF no debe subirse como fichero normal al repo. Debe publicarse como asset de una GitHub Release y poner su URL en `catalog.json` y en `models/qwen2_5_0_5b_instruct_q4.manifest.json`.
+Los modelos GGUF no deben subirse como ficheros normales al repo. Deben publicarse como assets de GitHub Releases y poner sus URL en `catalog.json` y en sus manifiestos:
+
+- `models/qwen2_5_0_5b_instruct_q4.manifest.json`
+- `models/qwen3_1_7b_q8_0.manifest.json`
+
+Los modelos grandes pueden publicarse en partes (`download_parts`). La app concatena las partes en orden y valida el fichero final con `bytes` y `sha256`.
 
 ## URLs esperadas
 
@@ -22,5 +27,4 @@ Puede cambiarse en compilación con:
 
 ```text
 --dart-define=REMOTE_CONTENT_CATALOG_URL=<url_catalogo>
---dart-define=LOCAL_AI_MODEL_URL=<url_release_asset_gguf>
 ```
